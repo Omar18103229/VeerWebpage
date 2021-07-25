@@ -172,6 +172,9 @@ header{
 /* services part css end */
 
 /* working part css start */
+.portfolio{
+    margin-bottom: 300px;
+}
 .port_first_img{
     position: relative;
     margin-bottom: 15px;
@@ -210,4 +213,29 @@ header{
     opacity: 1;
     transition: all linear .5s;
 }
+.perform{
+    margin-bottom: 70px;
+}
+.perform_img{
+    position: relative;
+}
+.perform_con1{
+    position: absolute;
+    top: 18px;
+    left: 330px;
+}
+.perform_con2{
+    position: absolute;
+    top: 18px;
+    left: 600px;
+}
+.perform_con3{
+    position: absolute;
+    top: 23px;
+    left: 875px;
+}
 /* working part css end */
+
+/* blog part css start */
+
+/* blog part css end */
