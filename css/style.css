@@ -116,6 +116,9 @@ header{
 /* about part css end */
 
 /* services part css start */
+.services{
+    padding-bottom: 100px;
+}
 .ser_main{
     /* border: 2px solid black; */
     height: 180px;
@@ -167,3 +170,7 @@ header{
     color: #555555;
 }
 /* services part css end */
+
+/* working part css start */
+
+/* working part css end */
