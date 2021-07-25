@@ -172,5 +172,42 @@ header{
 /* services part css end */
 
 /* working part css start */
-
+.port_first_img{
+    position: relative;
+    margin-bottom: 15px;
+}
+.gly_overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.53);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all linear .5s;
+}
+.gly_overlay a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #fff;
+}
+.port_first_img:hover .gly_overlay{
+    opacity: 1;
+    transition: all linear .5s;
+}
+.port_second_img{
+    position: absolute;
+    width: 358px;
+}
+.port_second_img img{
+    height: 200px;
+}
+.port_second_img:hover .gly_overlay{
+    opacity: 1;
+    transition: all linear .5s;
+}
 /* working part css end */
