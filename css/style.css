@@ -278,4 +278,57 @@ header{
     font-size: 25px;
     font-weight: 500;
 }
+.footer_con span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    background-color: #4ae694;
+    border: 1px solid #4ae694;
+    padding: 10px;
+    border-radius: 20px;
+}
 /* footer part css end */
+
+/* last part css start */
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: #000415;
+}
+.con_right{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 115px;
+}
+.con_middle{
+    position: relative;
+}
+.middle_img{
+    position: absolute;
+    top: -100px;
+    left: 600px;
+}
+.f_icon{
+    margin-left: 50px;
+}
+i{
+    color: white;
+}
+.f_email p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: white;
+}
+.omar{
+    margin-left: 60px;
+}
+.bin{
+    margin-top: 90px;
+}
+.last_con p{
+    color: #818181;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+/* last part css end */
