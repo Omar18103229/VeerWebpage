@@ -98,16 +98,16 @@
     .banner_con{
         position: absolute;
         top: 250px;
-        left: 13px;
+        left: 145px;
     }
     .banner_con h1{
-        font-size: 18px;
+        font-size: 30px;
     }
     .banner_con a{
         font-size: 15px;
         position: absolute;
         top: 120px;
-        left: 30px;
+        left: 80px;
         padding: 5px 10px;
         border-radius: 45px;
     }
@@ -130,7 +130,7 @@
         font-weight: 400;
         color: #252525;
         line-height: 30px;
-        margin-right: 380px;
+        /* margin-right: 380px; */
     }
     .about_con a{
         border: 2px solid #0cac88;
@@ -178,7 +178,7 @@
         line-height: 30px;
         margin-right: 380px;
     }
-    /* .footer_con{
+    .footer_con{
         margin-right: 45px;
     }
     .con_middle{
@@ -188,7 +188,7 @@
         position: absolute;
         top: 30px;
         left: 80px;
-    } */
+    }
     .f_icon{
         margin-left: -66px;
     }
