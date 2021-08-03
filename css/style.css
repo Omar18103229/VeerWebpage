@@ -271,6 +271,9 @@ header{
 }
 .footer_con{
     margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer_con p{
     color: white;
