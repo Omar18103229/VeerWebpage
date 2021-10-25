@@ -62,7 +62,7 @@ header{
 .banner_con{
     position: absolute;
     top: 200px;
-    left: 320px;
+    left: 576px;
 }
 .banner_con h1{
     font-family: 'Poppins', sans-serif;
@@ -221,18 +221,18 @@ header{
 }
 .perform_con1{
     position: absolute;
-    top: 18px;
-    left: 330px;
+    top: 45px;
+    left: 520px;
 }
 .perform_con2{
     position: absolute;
-    top: 18px;
-    left: 600px;
+    top: 45px;
+    left: 900px;
 }
 .perform_con3{
     position: absolute;
-    top: 23px;
-    left: 875px;
+    top: 50px;
+    left: 1290px;
 }
 /* working part css end */
 
@@ -309,7 +309,7 @@ footer{
 .middle_img{
     position: absolute;
     top: -100px;
-    left: 600px;
+    left: 700px;
 }
 .f_icon{
     margin-left: 50px;
